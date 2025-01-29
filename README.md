@@ -1,6 +1,6 @@
 ##ITA
 # pt-uni-library-networks
-## Un progetto per il corso di networking
+## Un progetto per il corso di networking.
 Questo file packet tracer rappresenta tre reti di biblioteche universitarie.
 Tutte le reti hanno diverse vlan per gli studenti e per i bibliotecari e un server che funge da DNS/DHCP server. EtherChannel è impiegato per aumentare la velocità tra wap distanti.
 I router usano il routing dinamico per instradare i pacchetti di livello 3.
